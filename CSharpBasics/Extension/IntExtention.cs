@@ -14,7 +14,7 @@
 
         public static string ToString(this string value)
         {
-            return "override existing ToString()";
+            return "override existing ToString() method";
         }
     }
 }

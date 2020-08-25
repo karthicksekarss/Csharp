@@ -4,3 +4,6 @@ C:\Work\Studies\C#Basics\CSharpBasics\CSharpBasics\bin\Debug\CSharpBasics.pdb
 C:\Work\Studies\C#Basics\CSharpBasics\CSharpBasics\obj\Debug\CSharpBasics.csprojResolveAssemblyReference.cache
 C:\Work\Studies\C#Basics\CSharpBasics\CSharpBasics\obj\Debug\CSharpBasics.exe
 C:\Work\Studies\C#Basics\CSharpBasics\CSharpBasics\obj\Debug\CSharpBasics.pdb
+C:\Work\gitup\src\Studies\CSharpBasics\bin\Debug\CSharpBasics.exe.config
+C:\Work\gitup\src\Studies\CSharpBasics\obj\Debug\CSharpBasics.exe
+C:\Work\gitup\src\Studies\CSharpBasics\obj\Debug\CSharpBasics.pdb
