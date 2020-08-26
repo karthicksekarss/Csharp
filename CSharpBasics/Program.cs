@@ -8,7 +8,7 @@ namespace CSharpBasics
         static void Main(string[] args)
         {
 
-            string EmpCode = "120780";
+            string EmpCode = "1011367";
             NeedsExtension obj = new NeedsExtension();
             Console.WriteLine(EmpCode.GetEmployeeCodeWithCompanyName("Google"));
             Console.WriteLine(obj.GetService());
